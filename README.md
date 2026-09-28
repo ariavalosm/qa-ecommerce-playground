@@ -27,6 +27,8 @@ The app contains realistic defects across functionality, validation, state handl
 
 React · TypeScript · Vite · mock API layer (`src/api`), separated from the UI so it can be tested independently.
 
+**Live Demo:** https://avannigoodshop.netlify.app
+
 ## Getting started
 
 ```bash
